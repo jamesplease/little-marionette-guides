@@ -163,7 +163,7 @@ LayoutView extends from `ItemView`, but with one exception: it can have child vi
 version of Marionette, ItemView and LayoutView will be the same thing, and they will just be
 called "View."
 
-### CollectionView && CompositeView
+### CollectionView & CompositeView
 
 These are for rendering collections when you wish to render an ItemView for each item in the
 collection. CompositeViews let you specify a template to be used with CollectionView.
